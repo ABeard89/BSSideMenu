@@ -1,0 +1,6 @@
+framework module BSSideMenu {
+  umbrella header "BSSideMenu-umbrella.h"
+
+  export *
+  module * { export * }
+}

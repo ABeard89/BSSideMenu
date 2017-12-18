@@ -1,0 +1,22 @@
+{
+  "name": "BSSideMenu",
+  "version": "0.1.0",
+  "summary": "A short description of BSSideMenu.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ABeard89/BSSideMenu",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ABeard89": "anthony.beard89@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/ABeard89/BSSideMenu.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BSSideMenu/Classes/**/*"
+}
